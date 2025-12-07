@@ -1,0 +1,53 @@
+{
+  "circuits": [
+    {
+      "name": "verify_brca1",
+      "pure": false,
+      "arguments": [
+        {
+          "name": "genome_hash",
+          "type": {
+            "type-name": "Field"
+          }
+        }
+      ],
+      "result-type": {
+        "type-name": "Boolean"
+      }
+    },
+    {
+      "name": "verify_brca2",
+      "pure": false,
+      "arguments": [
+        {
+          "name": "genome_hash",
+          "type": {
+            "type-name": "Field"
+          }
+        }
+      ],
+      "result-type": {
+        "type-name": "Boolean"
+      }
+    },
+    {
+      "name": "verify_cyp2d6",
+      "pure": false,
+      "arguments": [
+        {
+          "name": "genome_hash",
+          "type": {
+            "type-name": "Field"
+          }
+        }
+      ],
+      "result-type": {
+        "type-name": "Boolean"
+      }
+    }
+  ],
+  "witnesses": [
+  ],
+  "contracts": [
+  ]
+}

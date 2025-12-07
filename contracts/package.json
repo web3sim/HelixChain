@@ -1,0 +1,35 @@
+{
+  "name": "genomic-privacy-contracts",
+  "version": "1.0.0",
+  "description": "Zero-knowledge smart contracts for genomic privacy verification",
+  "main": "index.js",
+  "scripts": {
+    "build": "export PATH=\"../compactc_v0.25.0_aarch64-darwin:$PATH\" && compactc.bin src/genomic_field.compact build/",
+    "test": "node tests/genomic_verifier.test.js",
+    "deploy:testnet": "node scripts/deploy.js",
+    "verify:testnet": "node scripts/verify.js",
+    "listen:events": "node scripts/listen-events.js",
+    "format": "format-compact src/",
+    "compile:sdk": "tsc src/sdk/*.ts --outDir build/sdk --target es2020 --module commonjs"
+  },
+  "keywords": [
+    "midnight",
+    "compact",
+    "zero-knowledge",
+    "genomics",
+    "privacy"
+  ],
+  "author": "Genomic Privacy Team",
+  "license": "MIT",
+  "dependencies": {
+    "@noble/curves": "^2.0.1",
+    "@noble/hashes": "^2.0.1",
+    "circomlib": "^2.0.5",
+    "dotenv": "^16.0.0",
+    "snarkjs": "^0.7.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
