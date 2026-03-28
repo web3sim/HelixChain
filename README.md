@@ -1,3 +1,5 @@
+<!-- MARKEE:START:0x4e100002b646d9142ef2e0d4004318e0fc45d57f -->
+<!-- MARKEE:END:0x4e100002b646d9142ef2e0d4004318e0fc45d57f -->
 # 🧬 HelixChain - Genomic Privacy DApp
 
 > **Privacy-preserving genetic trait verification using zero-knowledge proofs on Midnight blockchain**
