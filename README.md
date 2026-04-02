@@ -1,7 +1,13 @@
 <!-- MARKEE:START:0x4e100002b646d9142ef2e0d4004318e0fc45d57f -->
-> 🪧 **[Markee](https://markee.xyz/ecosystem/platforms/github/0x4e100002b646d9142ef2e0d4004318e0fc45d57f)** — *This space is available.*
+> 🪧🪧🪧🪧🪧🪧🪧 MARKEE 🪧🪧🪧🪧🪧🪧🪧
 >
-> *Be the first to buy a message for 0.001 ETH on the [Markee App](https://markee.xyz/ecosystem/platforms/github/0x4e100002b646d9142ef2e0d4004318e0fc45d57f).*
+> gm
+>
+> 
+>
+> 🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧
+>
+> *Change this message for 0.002 ETH on the [Markee App](https://markee.xyz/ecosystem/platforms/github/0x4e100002b646d9142ef2e0d4004318e0fc45d57f).*
 <!-- MARKEE:END:0x4e100002b646d9142ef2e0d4004318e0fc45d57f -->
 # 🧬 HelixChain - Genomic Privacy DApp
 
