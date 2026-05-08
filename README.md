@@ -1,14 +1,20 @@
-<!-- MARKEE:START:0x4e100002b646d9142ef2e0d4004318e0fc45d57f -->
-> 🪧🪧🪧🪧🪧🪧🪧 MARKEE 🪧🪧🪧🪧🪧🪧🪧
->
-> gm🪧
->
-> 
->
-> 🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧🪧
->
-> *Change this message for 0.002 ETH on the [Markee App](https://markee.xyz/ecosystem/platforms/github/0x4e100002b646d9142ef2e0d4004318e0fc45d57f).*
-<!-- MARKEE:END:0x4e100002b646d9142ef2e0d4004318e0fc45d57f -->
+<!-- MARKEE:START:0x6459b0b0a3f8c19cb28464b248dff6a8cc8ca210 -->
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉                 ║
+  ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤                 ║
+  ╠══════════════════════════════════════════════════════╣
+  ║                                                      ║
+  ║   gm🪧                                                ║
+  ║                                                      ║
+  ╠══════════════════════════════════════════════════════╣
+  ║                 0.002 ETH to change                  ║
+  ╚══════════════════════════════════════════════════════╝
+                 ││                      ││
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/ecosystem/platforms/github/0x6459b0b0a3f8c19cb28464b248dff6a8cc8ca210) ^*
+<!-- MARKEE:END:0x6459b0b0a3f8c19cb28464b248dff6a8cc8ca210 -->
 # 🧬 HelixChain - Genomic Privacy DApp
 
 > **Privacy-preserving genetic trait verification using zero-knowledge proofs on Midnight blockchain**
