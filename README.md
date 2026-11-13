@@ -13,7 +13,7 @@
                  ││                      ││
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/ecosystem/platforms/github/0x0b63a27f25d69c0fc636eccf7b5f338206bb9e40) ^*
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0x0b63a27f25d69c0fc636eccf7b5f338206bb9e40) ^*
 <!-- MARKEE:END:0x0b63a27f25d69c0fc636eccf7b5f338206bb9e40 -->
 # 🧬 HelixChain - Genomic Privacy DApp
 
